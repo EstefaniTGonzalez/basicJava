@@ -1,0 +1,21 @@
+Hacer login
+abril el navegador
+Ingresar a la pagina https://evening-bastion-49392.herokuapp.com/
+    verificar que estoy en la pagina Songs By Sinatra
+    Verificar todos los menu Home About Contact Songs
+Hacer clic link log in
+    verificar que estoy en la pantalla para iniciar sesion
+    verificar campos solicitados  Username: Password: y boton log in
+    ingresar usuario, contraseña y dar clic en el boton log in
+    Verificar login exitoso
+Validar que estoy en la pantalla Song
+    Verificar Mensaje de Bienvenida
+    Verificar Encabezado
+    Verificar Link Create a new song
+    Verificar lista de canciones
+    Verificar que puedo hacer log out
+
+
+
+
+
