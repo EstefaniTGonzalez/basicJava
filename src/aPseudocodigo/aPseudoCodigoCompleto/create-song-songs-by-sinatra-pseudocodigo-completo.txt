@@ -16,4 +16,6 @@ Hacer clic en link Create a new song
     Verificar campos solicitados Title:, Length:, Date(mm/dd/yyyy):Lyrics: y boton save song
     ingresar informacion en todos los campos Title:, Length:, Date(mm/dd/yyyy):Lyrics: y dar clic en el boton save song
 Validar mensaje de éxito ‘You have added a new song’
-Validar informacion de los campos salvados Title:, Duration: , Fecha: Lyrics:
+Validar informacion de los campos salvados Title:, Duration: , Fecha: Lyrics::qa
+
+:¨q

@@ -17,8 +17,6 @@ public class MarioDojo {
 
 //
 //
-
-
 	}
 
 	public static void dibujarPiramide(int altura) {
@@ -26,8 +24,7 @@ public class MarioDojo {
 			dibujarEspacios(renglon, altura);
 			dibujarGatos(renglon, altura);
 	
-		
-		
+
 		//comoo determinar cuantos gatos hay
 			//numero de gatos es =renglon+ 1 
 			}

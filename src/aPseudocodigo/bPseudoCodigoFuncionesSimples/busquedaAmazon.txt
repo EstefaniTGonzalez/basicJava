@@ -1,0 +1,29 @@
+buscarArticuloAmazon() {
+      navegarPagina()
+      validarCargaPagina()
+      hacerBusquedaArticulo()
+      validarProductos()
+
+}
+
+navegarPagina() {
+     abrir navegador
+     escribir la url "https://amazon.com.mx"
+     dar enter
+}
+
+ validarCargaPagina() {
+     validar el encabezado
+     validar el campo de busqueda
+     Validar la lupita
+     Validar una liga ingresar
+
+ }
+ hacerBusquedArticulo() {
+    Parar en la caja de busqueda
+    escribir nombre en la caja de busqueda
+    dar Enter o dar clic en la lupita
+    validar que se hallan cargado los productos
+    seleccionar producto deseado
+
+ }
